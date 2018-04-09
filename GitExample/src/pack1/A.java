@@ -9,5 +9,8 @@ public class A {
 	public void avinash() {
 		
 	}
+	public void m4() {
+		
+	}
 
 }
