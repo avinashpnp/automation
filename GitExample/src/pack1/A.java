@@ -9,11 +9,5 @@ public class A {
 	public void avinash() {
 		
 	}
-	public void m3() {
-		
-	}
-	public void add() {
-		
-	}
 
 }
